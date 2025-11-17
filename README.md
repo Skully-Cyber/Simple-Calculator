@@ -1,2 +1,2 @@
-# Simple-Calculator
-A simple calculator used for simple tasks :)
+# JS Calculator
+A tiny browser calculator.
